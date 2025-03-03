@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**MykytaSalykin/MykytaSalykin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hey! I'm Salykin Mykyta 👋  
+Aspiring ML engineer from Trencin, Slovakia (originally Ukraine). I’m digging into classical ML and dreaming of tackling NLP someday. Love manipulating data and working with code!  
+### Stuff I’m exploring:  
+- Python
+- Pandas, NumPy, Matplotlib & Seaborn  
+- SQL
+- PyTorch
+- Statistics
+- Algorithms
+### Languages:  
+- English  
+- Slovak
+- Russian
+- Ukrainian
+### Outside of code:  
+- Gym time 💪  
+- Playing chess♟️  
+- Brazilian Jiu-Jitsu 🥋
+### Hit me up:  
+- [LinkedIn](https://www.linkedin.com/in/salykin-mykyta)  
+More projects coming soon — I’m just getting started!
