@@ -1,5 +1,5 @@
 # Hey! I'm Salykin Mykyta 👋  
-ML engineer from Trencin, Slovakia (originally Ukraine). I’m digging into classical ML and NLP. Love manipulating data and working with code!  
+ML engineer from Trencin, Slovakia (originally was born in Ukraine). I’m digging into Machine Learning and NLP. Love manipulating data, working with code and training models!  
 ### Stuff I’m exploring:  
 - Python
 - Pandas, NumPy, Matplotlib & Seaborn  
