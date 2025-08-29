@@ -1,13 +1,19 @@
 # Hey! I'm Salykin Mykyta 👋  
-ML engineer from Trencin, Slovakia (originally was born in Ukraine). I’m digging into Machine Learning and NLP. Love manipulating data, working with code and training models!  
+Data Scientist living in Bratislava (born in Ukraine). I’m digging into Classical Machine Learning, Deep Learning and NLP. Love manipulating data, working with code and training models!  
 ### Stuff I’m exploring:  
 - Python
 - Pandas, NumPy, Matplotlib & Seaborn  
 - SQL
 - PyTorch
+- HuggingFace
+- Transformers
+- Docker
+- AWS
+- Mlflow
+- FastAPI
+- Git
 - Statistics
 - Algorithms
-- HuggingFace 
 ### Languages:  
 - English  
 - Slovak
