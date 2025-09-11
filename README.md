@@ -1,5 +1,5 @@
 # 💫 About Me 
-Data Scientist with **more than one year of experience** in Data Science and Machine Learning.
+Data Scientist with **over a year of practical experience** in Data Science and Machine Learning, gained through real-world projects and Kaggle competitions.
 Skilled in: **Python, ML, SQL, Statistics, Docker, AWS, PyTorch, Git**, with expertise in Exploratory Data Analysis, Understanding End-to-End ML pipelines, Model Evaluation, Containerization, CI/CD.
 
 
