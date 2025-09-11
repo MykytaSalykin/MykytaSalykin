@@ -1,4 +1,4 @@
-# Hey! I'm Salykin Mykyta 👋  
+# Hey! I'm Mykyta 👋 You can call me Mike 😃
 Data Scientist living in Bratislava (born in Ukraine). I’m digging into Classical Machine Learning, Deep Learning and NLP. Love manipulating data, working with code and training models!  
 ### Stuff I’m exploring:  
 - Python
