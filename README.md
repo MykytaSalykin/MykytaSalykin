@@ -1,4 +1,7 @@
-# 💫 About Me 
+# Hey 👋 I'm Mykyta
+[![Email](https://img.shields.io/badge/Email-salykinmykyta%40gmail.com-red?style=flat-square&logo=gmail)](mailto:salykinmykyta@gmail.com)
+
+## 💫 About Me 
 Data Scientist with **over a year of practical experience** in Data Science and Machine Learning, gained through real-world projects and Kaggle competitions.
 Skilled in: **Python, ML, SQL, Statistics, Docker, AWS, PyTorch, Git**, with expertise in Exploratory Data Analysis, Understanding End-to-End ML pipelines, Model Evaluation, Containerization, CI/CD.
 
