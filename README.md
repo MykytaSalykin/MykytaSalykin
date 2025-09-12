@@ -3,7 +3,7 @@
 
 ## 💫 About Me 
 Data Scientist with **over a year of practical experience** in Data Science and Machine Learning, gained through real-world projects and Kaggle competitions.
-Skilled in: **Python, ML, SQL, Statistics, Docker, AWS, PyTorch, Git**, with expertise in Exploratory Data Analysis, Understanding End-to-End ML pipelines, Model Evaluation, Containerization, CI/CD.
+Skilled in: **Python, ML, SQL, Statistics, Excel, Docker, AWS, PyTorch, Git**, with expertise in Exploratory Data Analysis, Understanding End-to-End ML pipelines, Model Evaluation, Containerization, CI/CD.
 
 
 ### 💻 Tech Stack
@@ -11,6 +11,7 @@ Skilled in: **Python, ML, SQL, Statistics, Docker, AWS, PyTorch, Git**, with exp
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge&logo=R&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
