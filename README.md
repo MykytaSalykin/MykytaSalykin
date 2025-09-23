@@ -27,10 +27,7 @@ Skilled in: **Python, ML, SQL, Statistics, Excel, Docker, AWS, PyTorch, Git**, w
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Mykyta_Salykin)](https://leetcode.com/u/Mykyta_Salykin/)
-
-  
+ 
 ### Languages:  
 - English  
 - Slovak
